@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stu:home|Door43 (stu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stu|d43-stu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stu/archive/master.zip|d43-stu.zip]]
+
+**Recent Changes**
+{{changes>ns = stu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stu|Ethnologue data]]
+
